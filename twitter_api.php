@@ -8,10 +8,10 @@ ini_set('max_execution_time', 1600);
 *	twitter_api_get.php?count=10&page=10&lang=id&q=quote%20-RT
 */
 // Replace with your token and consumer key from apps.twitter.com
-$token = "83486951-LWFcx3PagJexwUe4k23hzpB4kv8H6aFKdN1lueTdo";
-$token_secret = "Iv1TsJf9aVDJiZWHdfh6GKHb44wEwo7YYBD8XgmTYd2M0";
-$consumer_key = "DNvdXQEUSyG3rFtOH6falewYQ";
-$consumer_secret = "mCwur0FcidYy2pUMFNXDxNzfSGfFnteNk7BlDsgcbN1PYntnwJ";
+$token = "<your token>";
+$token_secret = "<your token_secret>";
+$consumer_key = "<your consumer_key>";
+$consumer_secret = "<your consumer_secret>";
 
 $host = 'api.twitter.com';
 $method = 'GET';
